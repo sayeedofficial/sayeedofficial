@@ -1,4 +1,4 @@
-## I'm a Full Stack Web Developer and Android Developer!!
+## I'm a Full Stack Web Developer and Mobile Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other project creators
