@@ -34,7 +34,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 
+<<<<<<< HEAD
 <details>
+=======
+>>>>>>> 89369742689924b1774948cdb3bf3dfa1c1976dc
   <br/>
   <summary>:zap: GitHub Stats</summary>
 
