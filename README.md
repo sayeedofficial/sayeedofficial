@@ -42,6 +42,6 @@
 
 </details>
 
-[website]: https://sayeed.host20.uk
-[twitter]: https://twitter.com/sayeedofficiall
+[website]: https://sayeedofficial.netlify.app
+[twitter]: https://twitter.com/bornoutofblood
 [linkedin]: https://linkedin.com/in/sayeedofficial
