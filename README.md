@@ -36,12 +36,12 @@
 
 
   <br/>
-  <summary>:zap: GitHub Stats</summary>
+  
 
-  <img align="left" alt="sayeedofficial" src="https://github-readme-stats.codestackr.vercel.app/api?username=sayeedofficial&show_icons=true&hide_border=true" />
+ 
 
 </details>
 
-[website]: https://sayeedofficial.netlify.app
+[website]: https://iamsayeed.netlify.app
 [twitter]: https://twitter.com/bornoutofblood
 [linkedin]: https://linkedin.com/in/sayeedofficial
