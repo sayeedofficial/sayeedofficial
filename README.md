@@ -1,4 +1,4 @@
-## I'm a Full Stack Web Developer and Mobile Developer!!
+## Aspiring Software Developer!!
 
 - 🌱 I’m currently pursuing BE in Computer Science⭐
 - 👯 I’m looking to collaborate with other project creators
