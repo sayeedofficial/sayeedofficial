@@ -8,8 +8,6 @@
 #### Connect with me:
 
 [<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target ="_blank" />][website]
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  target ="_blank" />][twitter]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  target ="_blank" />][linkedin]
 
 <br/>
@@ -42,6 +40,5 @@
 
 </details>
 
-[website]: https://iamsayeed.netlify.app
-[twitter]: https://twitter.com/bornoutofblood
+[website]: https://www.sayeedofficial.me/
 [linkedin]: https://linkedin.com/in/sayeedofficial
