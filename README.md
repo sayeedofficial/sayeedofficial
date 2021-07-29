@@ -1,4 +1,4 @@
-## Aspiring Software Developer!!
+## Aspiring Software Developer Engineer!!
 
 - 🌱 I’m currently pursuing BE in Computer Science⭐
 - 👯 I’m looking to collaborate with other project creators
