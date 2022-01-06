@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently pursuing BE in Computer Science⭐
 - 👯 I’m looking to collaborate with other project creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new technologies
 
 #### Connect with me:
