@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate with other project creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new technologies
+- Code Along With Coffee
 
 #### Connect with me:
 
