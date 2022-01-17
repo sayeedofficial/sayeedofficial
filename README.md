@@ -43,3 +43,5 @@
 
 [website]: https://www.sayeedofficial.me/
 [linkedin]: https://linkedin.com/in/sayeedofficial
+[github]: https://github.com/sayeedofficial
+
