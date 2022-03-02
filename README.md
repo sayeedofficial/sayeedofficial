@@ -41,7 +41,7 @@
 
 </details>
 
-[website]: https://www.sayeedofficial.me/
+[website]: https://iamsayeed.netlify.app/
 [linkedin]: https://linkedin.com/in/sayeedofficial
 [github]: https://github.com/sayeedofficial
 
